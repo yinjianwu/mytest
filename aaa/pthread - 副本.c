@@ -9,7 +9,7 @@
 #include <pthread.h>
 #include "wrap.h"
 
-//hah
+
 struct INFO
 {
     pthread_t thread;
